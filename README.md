@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Frederic-Asiani
+- 👋 Hi, I’m @Freddy Asiani
 - 👀 I’m interested in  Data Science
 - 🌱 I’m currently learning  Machine Learning using R and Python languages
 - 💞️ I’m looking to collaborate on real-world Data Science projects
